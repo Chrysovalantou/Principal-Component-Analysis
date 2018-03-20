@@ -18,3 +18,8 @@ PCA.
 Kernel principal component analysis is an extension of principal component analysis (PCA) using techniques of kernel methods.
 When this technique of kernel substitution is applied to principal component analysis,
 we obtain a nonlinear generalization of the method.
+
+
+This work has been done as part of the class "Methods in Bioinformatics" during my M.Sc. studies in Bioinformatics
+Graduate program, at the University of Crete, GR.
+
