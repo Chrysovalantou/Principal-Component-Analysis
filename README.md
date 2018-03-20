@@ -19,7 +19,7 @@ Kernel principal component analysis is an extension of principal component analy
 When this technique of kernel substitution is applied to principal component analysis,
 we obtain a nonlinear generalization of the method.
 
-
+The methods above have been implemented from scratch in Python. 
 This work has been done as part of the class "Methods in Bioinformatics" during my M.Sc. studies in Bioinformatics
 Graduate program, at the University of Crete, GR.
 
